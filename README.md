@@ -1,2 +1,2 @@
 # Tiny-Timber
-the first platformer game i built alone
+the first platformer game i built by myself
